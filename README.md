@@ -23,8 +23,8 @@ This Python script, `convert.py`, is designed to convert Safari bookmarks export
      ```bash
      python convert.py [input_html_file] [output_markdown_file]
      ```
-   - Replace `[input_html_file]` with the path to your exported HTML file.
-   - Replace `[output_markdown_file]` with the desired path for the Markdown output.
+   - Replace `[input_html_file]` with the path to your exported HTML file (as a string).
+   - Replace `[output_markdown_file]` with the desired path for the Markdown output (as a string).
 
 ## Troubleshooting
 - Ensure that the HTML file is exported correctly from Safari.
